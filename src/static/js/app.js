@@ -5,6 +5,7 @@ function App() {
             <div class="text">ToDo App by Yuhi Matogawa</div>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
+                    <h1>Todo App by Yuhi Matogawa</h1>
                     <TodoListCard />
                 </Col>
             </Row>
